@@ -4,8 +4,6 @@ This repository is a fork from  shikimori / camo-server, with small changes rega
 
 Camo is all about making insecure assets look secure.  This is an SSL image proxy to prevent mixed content warnings on secure pages served from [GitHub](https://github.com).
 
-![camo](https://cloud.githubusercontent.com/assets/38/24514552/88f29edc-1529-11e7-832f-6d2942144c87.gif)
-
 We want to allow people to keep embedding images in comments/issues/READMEs.
 
 [There's more info on the GitHub blog](https://github.com/blog/743-sidejack-prevention-phase-3-ssl-proxied-assets).
@@ -14,7 +12,7 @@ Using a shared key, proxy URLs are authenticated with [hmac](http://en.wikipedia
 
 Camo currently runs on node version 0.10.29 at GitHub on [heroku](http://heroku.com).
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/atmos/camo)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wmchris/camo-server)
 
 Features
 --------
