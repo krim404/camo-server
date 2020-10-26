@@ -1,3 +1,5 @@
+This repository is a fork from  shikimori / camo-server, with small changes regarding deprecated calls and optimized docker builds.
+
 # camo [![Build Status](https://travis-ci.org/atmos/camo.svg?branch=master)](https://travis-ci.org/atmos/camo)
 
 Camo is all about making insecure assets look secure.  This is an SSL image proxy to prevent mixed content warnings on secure pages served from [GitHub](https://github.com).
