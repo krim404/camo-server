@@ -1,0 +1,5 @@
+node_modules
+tmp/camouflage.pid
+tmp/camo.pid
+.node-version
+yarn-error.log

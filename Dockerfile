@@ -9,4 +9,3 @@ EXPOSE 8081
 
 USER node
 CMD ["node", "server.js"]
-
