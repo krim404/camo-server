@@ -1,0 +1,17 @@
+{
+  "name": "camo",
+  "version": "2.3.0",
+  "dependencies": {},
+  "engines": {
+    "node": ">6.11.1"
+  },
+  "scripts": {
+    "build": "coffee -c server.coffee"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.12.6"
+  },
+  "scripts": {
+    "build": "coffee -c server.coffee"
+  }
+}
